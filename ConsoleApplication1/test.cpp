@@ -4,14 +4,15 @@
 
 
 
-#include<iostream>;
-using namespace std;
 
 
 
-int main()
-{
+int main(/*liste des parametre eventuels*/)
+{ // un bloc d<instruction
+	
 
 
 
+
+	return 0;
 }
